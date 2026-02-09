@@ -9,4 +9,6 @@ do
   cat $students_dir/cohort-$i.txt
   echo "---------------------"
 done
+name="Josue"
+echo "$name"
 
